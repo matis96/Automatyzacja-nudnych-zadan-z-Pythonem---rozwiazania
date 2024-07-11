@@ -1,3 +1,5 @@
+(IN PROGRESS)
+
 Rozwiązania do polskiego wydania książki "Automatyzacja nudnych zadan z Pythonem - nauka programowania", wyd. II, autor: Al Sweigart
 
 Solutions to the Polish edition of the book "Automate the Boring Stuff with Python, 2nd Edition: Pracital Programming for Total Beginners" by Al Sweigart
