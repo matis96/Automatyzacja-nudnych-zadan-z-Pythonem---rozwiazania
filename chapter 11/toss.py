@@ -16,4 +16,4 @@ else:
     if toss == guess:
         print('Odgadles!')
     else:
-        print('Nie udalo sie! Naprawde kiepsko Ci dzisi idzie.')
+        print('Nie udalo sie! Naprawde kiepsko Ci dzis idzie.')
